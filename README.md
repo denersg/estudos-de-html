@@ -1,2 +1,2 @@
 # estudos-de-html
-Pequenas códigos de estudo de HTML
+Pequenos códigos de estudo de HTML
